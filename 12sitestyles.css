@@ -11,6 +11,7 @@ body{
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-shadow: 2px 1px 5px black;
 }
 .clearfix .float-end img{
     width: 330px;
@@ -36,6 +37,7 @@ body{
 }
 .clearfix{
     background-color: antiquewhite;
+    box-shadow: 5px 5px 5px rgba(143, 128, 108, 0.568);
 }
 .figure-caption{
     margin-right: 40px;
